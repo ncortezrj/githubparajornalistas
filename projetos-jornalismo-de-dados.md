@@ -30,3 +30,4 @@ Mulheres em dados | https://github.com/mulheresemdados | Brasil
 Jornal O POVO | https://github.com/opovoonline | Brasil
 UOL | https://github.com/uol | Brasil
 Revista Piauí | https://github.com/revista-piaui | Brasil
+Folha de S. Paulo | https://github.com/FolhaSP | Brasil
