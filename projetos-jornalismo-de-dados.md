@@ -1,4 +1,4 @@
-# Lista de projetos de jornalismo de dados recomendados
+![image](https://github.com/SumaiaVillela/githubparajornalistasdaNatalia/assets/144967661/9017c1e9-3dad-42cf-aab2-439be7b7199c)# Lista de projetos de jornalismo de dados recomendados
 
 Organização | Link | País
 --------- | ------ | ------
@@ -30,3 +30,4 @@ Mulheres em dados | https://github.com/mulheresemdados | Brasil
 Jornal O POVO | https://github.com/opovoonline | Brasil
 UOL | https://github.com/uol | Brasil
 Revista Piauí | https://github.com/revista-piaui | Brasil
+Gênero e Número | https://github.com/generonumero | Brasil
